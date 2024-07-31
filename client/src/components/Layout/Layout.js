@@ -29,7 +29,7 @@ Layout.defaultProps = {
   title: "Dharma hardware & electronics",
   description: "Online site for shopping hardware and electronics",
   keywords: "hardware,electronics,shop,nagpur",
-  author: "vidhisorte",
+  author: "ankitasingh",
 };
 
 export default Layout;
