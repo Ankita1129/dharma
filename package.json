@@ -11,8 +11,8 @@
     "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "vidhisorte",
-  "license": "vs",
+  "author": "ankitasingh",
+  "license": "as",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "bcrypt": "^5.1.0",
