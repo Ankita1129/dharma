@@ -11,7 +11,7 @@ const Categories = () => {
           {categories.map((c) => (
             <div className="col-md-4 mt-3 mb-3 gx-4 gy-4" key={c._id}>
               <div className="card">
-                <Link to={`/category/${c.slug}`} className="btn cat-btn">
+                <Link to={`https://dharma-1.onrender.com/category/${c.slug}`} className="btn cat-btn">
                   {c.name}
                 </Link>
               </div>
